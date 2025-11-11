@@ -2,8 +2,11 @@
 
 # Date: 10/11/2025
 # Register no.: 212223220069
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
-# Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
+# Aim: 
+To perform the Exploration of Prompting Techniques for Video Generation
+# Algorithm: 
+Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. 
+# Procedure:
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
 Runway Gen-2
@@ -30,12 +33,19 @@ Generate Multiple Versions:
 Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+# Prompt
+A cinematic video showing a young woman in a red jacket walking through a sunlit park, birds flying overhead, a golden retriever running beside her, and soft instrumental music playing in the background. Include smooth transitions between wide-angle shots of the trees, close-ups of her smiling, and slow-motion clips of the dog jumping through leaves.
 
 # Output
+<img width="729" height="503" alt="Screenshot 2025-11-11 135143" src="https://github.com/user-attachments/assets/3d1564d1-a827-41ab-8b98-5731a55b983d" />
+<img width="749" height="489" alt="Screenshot 2025-11-11 135148" src="https://github.com/user-attachments/assets/2881c2a1-f3dc-4674-a575-c2964b6dcbb9" />
+<img width="737" height="531" alt="Screenshot 2025-11-11 135153" src="https://github.com/user-attachments/assets/a27bdf1c-8652-4416-a63d-f15b08ae8fb3" />
+<img width="754" height="495" alt="Screenshot 2025-11-11 135158" src="https://github.com/user-attachments/assets/33e20294-df8b-4f3b-b6cd-b98c9ce78065" />
 
 
 
-# Result: The Prompt of the above task executed successfully
+# Result: 
+The Prompt of the above task executed successfully
 
 
 
@@ -44,6 +54,4 @@ Save different versions of the videos and compare the results to understand how 
 
 
 
-
-# Result:
 
